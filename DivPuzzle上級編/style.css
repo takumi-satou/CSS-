@@ -13,6 +13,13 @@ body {
 	background: #ff0000;
 }
 
+.header-top-light {
+  width: 160 ;
+  height: 60 ;
+  background: #ffffff ;
+}
+
+
 .content {
 	float: left;
 	width: 150px;
