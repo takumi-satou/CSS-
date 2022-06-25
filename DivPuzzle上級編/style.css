@@ -17,20 +17,20 @@ body {
 	float: left;
 	width: 150px;
 	height: 250px;
-	background: #00ff10;
+	background: #00ff51;
 }
 
 .side {
 	float: right;
 	width: 250px;
 	height: 250px;
-	background: #3300ff;
+	background: #8c2727;
 }
 
 .footer {
 	width: 100%;
 	height: 100px;
-	background: #ffe600;
+	background: #ffd000;
 }
 
 .clearfix:after {
