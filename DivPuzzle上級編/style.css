@@ -44,6 +44,6 @@ body {
 	content: "";
 	display: block;
 	clear: both;
-	height: 0;
+	height: 20;
 	visibility: hidden;
 }
