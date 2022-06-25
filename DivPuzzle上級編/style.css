@@ -23,14 +23,14 @@ body {
 .content {
 	float: left;
 	width: 150px;
-	height: 200px;
+	height: 250px;
 	background: #00ff51;
 }
 
 .side {
 	float: right;
 	width: 250px;
-	height: 200px;
+	height: 250px;
 	background: #8c2727;
 }
 
