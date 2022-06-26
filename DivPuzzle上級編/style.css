@@ -59,6 +59,22 @@ body {
 	background: #8c2727;
 }
 
+.sidebox1 {
+	float: left;
+	width: 150px;
+	height: 50px;
+	position: relative; top: 40px; left: 40px;
+	background: #ffffff;
+}
+
+.sidebox1-1 {
+	float: left;
+	width: 140px;
+	height: 40px;
+	position: absolute; top: 5px; right: 5px;
+	background: #ff863f;
+}
+
 .footer {
 	width: 100%;
 	height: 100px;
