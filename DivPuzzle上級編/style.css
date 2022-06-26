@@ -67,11 +67,27 @@ body {
 	background: #ffffff;
 }
 
+.sidebox2 {
+	float: left;
+	width: 150px;
+	height: 50px;
+	position: relative; top: 50px; left: 40px;
+	background: #ffffff;
+}
+
+.sidebox3 {
+	float: left;
+	width: 150px;
+	height: 50px;
+	position: relative; top: 60px; left: 40px;
+	background: #ffffff;
+}
+
 .sidebox1-1 {
 	float: left;
 	width: 140px;
 	height: 40px;
-	position: absolute; top: 5px; right: 5px;
+	position: relative; top: 15px; left: 45px;
 	background: #ff863f;
 }
 
