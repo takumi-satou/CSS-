@@ -13,6 +13,13 @@ body {
 	background: #ff0000;
 }
 
+.whitebox {
+	width: 160px;
+	height: 60px;
+	position:relative; top:20px; left: 190px;
+	background: #ffffff;
+}
+
 .childbox-left {
 	float: left;
 	width: 40px;
@@ -29,6 +36,13 @@ body {
 	background: #a9004b;
 }
 
+.childbox-right {
+	float: left;
+	width: 40px;
+	height: 40px;
+	position:relative; border:70px; left: 50px;
+	background: #a9004b;
+}
 
 .content {
 	float: left;
