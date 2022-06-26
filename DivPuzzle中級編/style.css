@@ -20,7 +20,7 @@ body {
 }
 
 .content {
-	float: right;
+	float: left;
 	width: 250px;
 	height: 250px;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .content-top-right {
-	float: right;
+	float: left;
 	width: 100px;
 	height: 150px;
 	background: #ff9e6b;
