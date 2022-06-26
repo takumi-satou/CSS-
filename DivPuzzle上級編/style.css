@@ -15,9 +15,9 @@ body {
 
 .whitebox {
 	float: left;
-	width: 140px;
-	height: 40px;
-	position:absolute; top: 40px; right: 170px;
+	width: 160px;
+	height: 60px;
+	position:relative; top: 20px; left: 220px;
 	background: #ffffff;
 }
 
@@ -25,7 +25,7 @@ body {
 	float: left;
 	width: 40px;
 	height: 40px;
-	position:relative; top:30px; left: 230px;
+	position:absolute; top:10px; right: 10px;
   background: #a9004b;
 }
 
@@ -33,7 +33,7 @@ body {
 	float: left;
 	width: 40px;
 	height: 40px;
-	position:relative; border:70px; left: 50px;
+	position:absolute; border:70px; right: 50px;
 	background: #a9004b;
 }
 
@@ -41,7 +41,7 @@ body {
 	float: left;
 	width: 40px;
 	height: 40px;
-	position:relative; border:70px; left: 50px;
+	position:absolute; border:70px; right: 50px;
 	background: #a9004b;
 }
 
@@ -69,6 +69,5 @@ body {
 	content: "";
 	display: block;
 	clear: both;
-	height: 20;
 	visibility: hidden;
 }
