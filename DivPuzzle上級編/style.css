@@ -87,7 +87,23 @@ body {
 	float: left;
 	width: 140px;
 	height: 40px;
-	position: relative; top: 15px; left: 45px;
+	position: relative; top: -105px; left: 45px;
+	background: #ff863f;
+}
+
+.sidebox1-2 {
+	float: left;
+	width: 140px;
+	height: 40px;
+	position: relative; top: -85px; left: 45px;
+	background: #ff863f;
+}
+
+.sidebox1-3 {
+	float: left;
+	width: 140px;
+	height: 40px;
+	position: relative; top: -65px; left: 45px;
 	background: #ff863f;
 }
 
