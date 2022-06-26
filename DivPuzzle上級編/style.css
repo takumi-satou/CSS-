@@ -13,11 +13,20 @@ body {
 	background: #ff0000;
 }
 
-.float-left {
+.childbox-left {
 	float: left;
 	width: 40px;
-	height: 40px;;
+	height: 40px;
+	position:relative; top:30px; left: 200px;
   background: #a9004b;
+}
+
+.childbox-center {
+	float: left;
+	width: 40px;
+	height: 40px;
+	position:absolute; top:30px; left: 210px;
+	background: #a9004b;
 }
 
 
@@ -29,7 +38,7 @@ body {
 }
 
 .side {
-	float: right;
+	float: left;
 	width: 250px;
 	height: 250px;
 	background: #8c2727;
