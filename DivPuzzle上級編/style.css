@@ -14,9 +14,10 @@ body {
 }
 
 .whitebox {
+	float: left;
 	width: 160px;
 	height: 60px;
-	position:relative; top:20px; left: 190px;
+	position:absolute; top:20px; right: 160px;
 	background: #ffffff;
 }
 
