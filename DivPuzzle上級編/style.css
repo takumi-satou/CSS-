@@ -87,7 +87,7 @@ body {
 	float: left;
 	width: 140px;
 	height: 40px;
-	position: relative; top: -105px; left: 45px;
+	position: relative; bottom: 105px; left: 45px;
 	background: #ff863f;
 }
 
@@ -95,7 +95,7 @@ body {
 	float: left;
 	width: 140px;
 	height: 40px;
-	position: relative; top: -85px; left: 45px;
+	position: relative; bottom: 85px; left: 45px;
 	background: #ff863f;
 }
 
@@ -103,7 +103,7 @@ body {
 	float: left;
 	width: 140px;
 	height: 40px;
-	position: relative; top: -65px; left: 45px;
+	position: relative; bottom: 65px; left: 45px;
 	background: #ff863f;
 }
 
