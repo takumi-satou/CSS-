@@ -1,121 +1,142 @@
 body {
-	width: 100%;
+  width: 100%;
 }
 
 .wrapper {
-	width: 400px;
-	margin: 0 auto;
+  width: 400px;
+  margin: 0 auto;
 }
 
 .header {
-	width: 100%;
-	height: 100px;;
-	background: #ff0000;
+  width: 100%;
+  height: 100px;
+  ;
+  background: #ff0000;
 }
 
 .whitebox {
-	float: left;
-	width: 160px;
-	height: 60px;
-	position:relative; top: 20px; left: 220px;
-	background: #ffffff;
+  float: left;
+  width: 160px;
+  height: 60px;
+  position: relative;
+  top: 20px;
+  left: 220px;
+  background: #ffffff;
 }
 
 .childbox-left {
-	float: left;
-	width: 40px;
-	height: 40px;
-	position:absolute; top:10px; right: 10px;
+  float: left;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
   background: #a9004b;
 }
 
 .childbox-center {
-	float: left;
-	width: 40px;
-	height: 40px;
-	position:absolute; border:70px; right: 50px;
-	background: #a9004b;
+  float: left;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border: 70px;
+  right: 50px;
+  background: #a9004b;
 }
 
 .childbox-right {
-	float: left;
-	width: 40px;
-	height: 40px;
-	position:absolute; border:70px; right: 50px;
-	background: #a9004b;
+  float: left;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border: 70px;
+  right: 50px;
+  background: #a9004b;
 }
 
 .content {
-	float: left;
-	width: 150px;
-	height: 250px;
-	background: #00ff51;
+  float: left;
+  width: 150px;
+  height: 250px;
+  background: #00ff51;
 }
 
 .side {
-	float: left;
-	width: 250px;
-	height: 250px;
-	background: #8c2727;
+  float: left;
+  width: 250px;
+  height: 250px;
+  background: #8c2727;
 }
 
 .sidebox1 {
-	float: left;
-	width: 150px;
-	height: 50px;
-	position: relative; top: 40px; left: 40px;
-	background: #ffffff;
+  float: left;
+  width: 150px;
+  height: 50px;
+  position: relative;
+  top: 40px;
+  left: 40px;
+  background: #ffffff;
 }
 
 .sidebox2 {
-	float: left;
-	width: 150px;
-	height: 50px;
-	position: relative; top: 50px; left: 40px;
-	background: #ffffff;
+  float: left;
+  width: 150px;
+  height: 50px;
+  position: relative;
+  top: 50px;
+  left: 40px;
+  background: #ffffff;
 }
 
 .sidebox3 {
-	float: left;
-	width: 150px;
-	height: 50px;
-	position: relative; top: 60px; left: 40px;
-	background: #ffffff;
+  float: left;
+  width: 150px;
+  height: 50px;
+  position: relative;
+  top: 60px;
+  left: 40px;
+  background: #ffffff;
 }
 
 .sidebox1-1 {
-	float: left;
-	width: 140px;
-	height: 40px;
-	position: relative; bottom: 105px; left: 45px;
-	background: #ff863f;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: relative;
+  bottom: 105px;
+  left: 45px;
+  background: #ff863f;
 }
 
 .sidebox1-2 {
-	float: left;
-	width: 140px;
-	height: 40px;
-	position: relative; bottom: 85px; left: 45px;
-	background: #ff863f;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: relative;
+  bottom: 85px;
+  left: 45px;
+  background: #ff863f;
 }
 
 .sidebox1-3 {
-	float: left;
-	width: 140px;
-	height: 40px;
-	position: relative; bottom: 65px; left: 45px;
-	background: #ff863f;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: relative;
+  bottom: 65px;
+  left: 45px;
+  background: #ff863f;
 }
 
 .footer {
-	width: 100%;
-	height: 100px;
-	background: #ffd000;
+  width: 100%;
+  height: 100px;
+  background: #ffd000;
 }
 
 .clearfix:after {
-	content: "";
-	display: block;
-	clear: both;
-	visibility: hidden;
+  content: "";
+  display: block;
+  clear: both;
+  visibility: hidden;
 }
