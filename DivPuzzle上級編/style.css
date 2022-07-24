@@ -65,35 +65,36 @@ body {
   float: left;
   width: 250px;
   height: 250px;
+  position: relative;
   background: #8c2727;
 }
 
-.sidebox1-1 {
+.sidebox1 {
   float: left;
   width: 140px;
   height: 40px;
-  position: relative;
+  position: absolute;
   top: 45px;
   left: 45px;
   background: #ff863f;
 }
 
-.sidebox1-2 {
+.sidebox2 {
   float: left;
   width: 140px;
   height: 40px;
-  position: relative;
-  top: 55px;
+  position: absolute;
+  top: 100px;
   left: 45px;
   background: #ff863f;
 }
 
-.sidebox1-3 {
+.sidebox3 {
   float: left;
   width: 140px;
   height: 40px;
-  position: relative;
-  top:65px;
+  position: absolute;
+  top:155px;
   left: 45px;
   background: #ff863f;
 }
