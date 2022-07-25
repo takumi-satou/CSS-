@@ -73,8 +73,9 @@ body {
   width: 140px;
   height: 40px;
   position: absolute;
-  top: 45px;
-  left: 45px;
+  top: 40px;
+  left: 40px;
+  border: 5px solid #ffffff;
   background: #ff863f;
 }
 
@@ -84,7 +85,8 @@ body {
   height: 40px;
   position: absolute;
   top: 100px;
-  left: 45px;
+  left: 40px;
+  border: 5px solid #ffffff;
   background: #ff863f;
 }
 
@@ -93,8 +95,9 @@ body {
   width: 140px;
   height: 40px;
   position: absolute;
-  top:155px;
-  left: 45px;
+  top: 160px;
+  left: 40px;
+  border: 5px solid #ffffff;
   background: #ff863f;
 }
 
