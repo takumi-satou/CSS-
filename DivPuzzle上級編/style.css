@@ -21,8 +21,8 @@ body {
   position: absolute;
   background: #a9004b;
   border: 10px solid #ffffff;
-  margin: 20px;
-  right: 0px;
+  margin: 20px  0;
+  display: inline-block;
 }
 
 .childbox-center {
@@ -32,7 +32,7 @@ body {
   position: absolute;
   background: #a9004b;
   border: 10px solid #ffffff;
-  margin: 20px;
+  right: 50px;
 }
 
 .childbox-left {
