@@ -10,38 +10,14 @@ body {
 .header {
   width: 100%;
   height: 100px;
-  position: relative;
   background: #ff0000;
 }
 
-.childbox-right {
-  float: left;
+.childbox {
   width: 40px;
   height: 40px;
-  position: absolute;
   background: #a9004b;
   border: 10px solid #ffffff;
-  margin: 20px  0;
-  display: inline-block;
-}
-
-.childbox-center {
-  float: left;
-  width: 40px;
-  height: 40px;
-  position: absolute;
-  background: #a9004b;
-  border: 10px solid #ffffff;
-  right: 50px;
-}
-
-.childbox-left {
-  float: left;
-  width: 40px;
-  height: 40px;
-  position: absolute;
-  right: 50px;
-  background: #a9004b;
 }
 
 .content {
@@ -60,7 +36,6 @@ body {
 }
 
 .sidebox-top {
-  float: left;
   width: 140px;
   height: 40px;
   position: absolute;
