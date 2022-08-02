@@ -5,6 +5,7 @@ body {
 .wrapper {
   width: 400px;
   margin: 0 auto;
+  padding: 0 auto;
 }
 
 .header {
@@ -54,6 +55,11 @@ body {
   margin-left: 40px;
   background: #ff863f;
 }
+
+div .sidebox:nth-of-type(n+2){
+  margin-top: 10px;
+}
+
 
 .footer {
   width: 100%;
