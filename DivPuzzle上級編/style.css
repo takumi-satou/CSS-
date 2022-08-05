@@ -57,10 +57,7 @@ div .childbox:first-child{
   top: 40px;
   left: 40px;
   background: #ff863f;
-}
-
-div.sidebox:nth-child(2){
-  top: 90pxx;
+  display: block;
 }
 
 .footer {
