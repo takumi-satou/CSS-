@@ -57,7 +57,14 @@ div .childbox:first-child{
   top: 40px;
   left: 40px;
   background: #ff863f;
-  display: block;
+}
+
+div.sidebox:nth-child(2){
+  margin-top: 60px;
+}
+
+div.sidebox:nth-child(3){
+  margin-top: 120px;
 }
 
 .footer {
