@@ -30,12 +30,6 @@ body {
   margin-left: 10px;
 }
 
-.clearfix::after {
-  content: "";
-  display: block;
-  clear: both;
-}
-
 div .childbox:first-child{
   margin-left: 0px;
 }
