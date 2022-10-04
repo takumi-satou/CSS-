@@ -14,6 +14,12 @@ body {
   background: #ff0000;
 }
 
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
 .whitebox{
   position: absolute;
   top: 20px;
