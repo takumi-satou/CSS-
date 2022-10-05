@@ -52,8 +52,9 @@ div .childbox:first-child{
   width: 140px;
   height: 40px;
   border: 5px solid #ffffff;
-  margin-top: 40px;
-  margin-left: 40px;
+  position: relative;
+  top: 40px;
+  left: 40px;
   background: #ff863f;
 }
 
